@@ -1,0 +1,24 @@
+D:\User\Desktop\ProgettoBriscola\CLCarta\bin\Debug\CLCarta.dll
+D:\User\Desktop\ProgettoBriscola\CLCarta\bin\Debug\CLCarta.pdb
+D:\User\Desktop\ProgettoBriscola\CLCarta\obj\Debug\CLCarta.csprojResolveAssemblyReference.cache
+D:\User\Desktop\ProgettoBriscola\CLCarta\obj\Debug\CLCarta.csproj.CoreCompileInputs.cache
+D:\User\Desktop\ProgettoBriscola\CLCarta\obj\Debug\CLCarta.dll
+D:\User\Desktop\ProgettoBriscola\CLCarta\obj\Debug\CLCarta.pdb
+\\Repo\Studenti$\Informatica\SezBi\4Bi\Eros.Ribaga\Desktop\ProgettoBriscola\CLCarta\bin\Debug\CLCarta.dll
+\\Repo\Studenti$\Informatica\SezBi\4Bi\Eros.Ribaga\Desktop\ProgettoBriscola\CLCarta\bin\Debug\CLCarta.pdb
+\\Repo\Studenti$\Informatica\SezBi\4Bi\Eros.Ribaga\Desktop\ProgettoBriscola\CLCarta\obj\Debug\CLCarta.csprojResolveAssemblyReference.cache
+\\Repo\Studenti$\Informatica\SezBi\4Bi\Eros.Ribaga\Desktop\ProgettoBriscola\CLCarta\obj\Debug\CLCarta.csproj.CoreCompileInputs.cache
+\\Repo\Studenti$\Informatica\SezBi\4Bi\Eros.Ribaga\Desktop\ProgettoBriscola\CLCarta\obj\Debug\CLCarta.dll
+\\Repo\Studenti$\Informatica\SezBi\4Bi\Eros.Ribaga\Desktop\ProgettoBriscola\CLCarta\obj\Debug\CLCarta.pdb
+D:\User\Desktop\ProgettoBriscola\CLCarta\obj\Debug\CLCarta.Properties.Resources.resources
+D:\User\Desktop\ProgettoBriscola\CLCarta\obj\Debug\CLCarta.csproj.GenerateResource.cache
+\\Repo\Studenti$\Informatica\SezBi\4Bi\Eros.Ribaga\Desktop\ProgettoBriscola\CLCarta\obj\Debug\CLCarta.Properties.Resources.resources
+\\Repo\Studenti$\Informatica\SezBi\4Bi\Eros.Ribaga\Desktop\ProgettoBriscola\CLCarta\obj\Debug\CLCarta.csproj.GenerateResource.Cache
+D:\User\Desktop\Nuova cartella (2)\ProgettoBriscola\CLCarta\bin\Debug\CLCarta.dll
+D:\User\Desktop\Nuova cartella (2)\ProgettoBriscola\CLCarta\bin\Debug\CLCarta.pdb
+D:\User\Desktop\Nuova cartella (2)\ProgettoBriscola\CLCarta\obj\Debug\CLCarta.csprojResolveAssemblyReference.cache
+D:\User\Desktop\Nuova cartella (2)\ProgettoBriscola\CLCarta\obj\Debug\CLCarta.Properties.Resources.resources
+D:\User\Desktop\Nuova cartella (2)\ProgettoBriscola\CLCarta\obj\Debug\CLCarta.csproj.GenerateResource.cache
+D:\User\Desktop\Nuova cartella (2)\ProgettoBriscola\CLCarta\obj\Debug\CLCarta.csproj.CoreCompileInputs.cache
+D:\User\Desktop\Nuova cartella (2)\ProgettoBriscola\CLCarta\obj\Debug\CLCarta.dll
+D:\User\Desktop\Nuova cartella (2)\ProgettoBriscola\CLCarta\obj\Debug\CLCarta.pdb

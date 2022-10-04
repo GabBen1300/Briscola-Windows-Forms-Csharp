@@ -1,0 +1,86 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="WFBriscola.GiocatoreSingolo">
+    <Position X="5" Y="0.5" Width="1.75" />
+    <Members>
+      <Field Name="btnInizio" Hidden="true" />
+      <Field Name="components" Hidden="true" />
+      <Method Name="Dispose" Hidden="true" />
+      <Method Name="InitializeComponent" Hidden="true" />
+      <Field Name="lblCarteRimanenti" Hidden="true" />
+      <Field Name="lblmsg" Hidden="true" />
+      <Field Name="lblNome" Hidden="true" />
+      <Field Name="lblPunteggio" Hidden="true" />
+      <Field Name="lblTurnoG1" Hidden="true" />
+      <Field Name="lblTurnoG2" Hidden="true" />
+      <Field Name="listBox1" Hidden="true" />
+      <Field Name="pBriscola" Hidden="true" />
+      <Field Name="pG1" Hidden="true" />
+      <Field Name="pG2" Hidden="true" />
+      <Field Name="pGiocate" Hidden="true" />
+      <Field Name="statusStrip1" Hidden="true" />
+    </Members>
+    <TypeIdentifier>
+      <HashCode>EAAAAAEAgWAAAKAAAQCAEgQCAAAggAQAAEYChQAgDYU=</HashCode>
+      <FileName>GiocatoreSingolo.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WFBriscola.Menu">
+    <Position X="0.75" Y="0.5" Width="1.5" />
+    <Members>
+      <Field Name="aboutTXT" Hidden="true" />
+      <Field Name="btnAbout" Hidden="true" />
+      <Field Name="btnAvviaServer" Hidden="true" />
+      <Field Name="btnConnetti" Hidden="true" />
+      <Field Name="btnInizia" Hidden="true" />
+      <Field Name="cbTipo" Hidden="true" />
+      <Field Name="components" Hidden="true" />
+      <Method Name="Dispose" Hidden="true" />
+      <Method Name="InitializeComponent" Hidden="true" />
+      <Field Name="label1" Hidden="true" />
+      <Field Name="label2" Hidden="true" />
+      <Field Name="label3" Hidden="true" />
+      <Field Name="lblStato" Hidden="true" />
+      <Field Name="nudNumGiocatori" Hidden="true" />
+      <Field Name="statusStrip1" Hidden="true" />
+      <Field Name="txtNome" Hidden="true" />
+    </Members>
+    <TypeIdentifier>
+      <HashCode>ACwQAEAAAGAAAJAAAQiAAAQCEAIABIABgAAAFAAkAQE=</HashCode>
+      <FileName>Menu.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WFBriscola.Tavolo">
+    <Position X="2.5" Y="0.5" Width="2.25" />
+    <Members>
+      <Field Name="btnINIZIA" Hidden="true" />
+      <Field Name="components" Hidden="true" />
+      <Method Name="Dispose" Hidden="true" />
+      <Method Name="InitializeComponent" Hidden="true" />
+      <Field Name="lblCarteRimanenti" Hidden="true" />
+      <Field Name="lblmsg" Hidden="true" />
+      <Field Name="lblNome1" Hidden="true" />
+      <Field Name="lblNome2" Hidden="true" />
+      <Field Name="lblNome3" Hidden="true" />
+      <Field Name="lblNome4" Hidden="true" />
+      <Field Name="lblPunteggio" Hidden="true" />
+      <Field Name="lblTurnoG1" Hidden="true" />
+      <Field Name="lblTurnoG2" Hidden="true" />
+      <Field Name="lblTurnoG3" Hidden="true" />
+      <Field Name="lblTurnoG4" Hidden="true" />
+      <Field Name="listBox1" Hidden="true" />
+      <Field Name="pBriscola" Hidden="true" />
+      <Field Name="pG1" Hidden="true" />
+      <Field Name="pG2" Hidden="true" />
+      <Field Name="pG3" Hidden="true" />
+      <Field Name="pG4" Hidden="true" />
+      <Field Name="pGiocate" Hidden="true" />
+      <Field Name="statusStrip1" Hidden="true" />
+    </Members>
+    <TypeIdentifier>
+      <HashCode>EAiAhAMAiWAAQCAABQiBGCQLAkACAIAQgEIEVQAQDoU=</HashCode>
+      <FileName>Tavolo.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

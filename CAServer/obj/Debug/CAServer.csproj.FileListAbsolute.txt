@@ -1,0 +1,37 @@
+D:\User\Desktop\ProgettoBriscola\CAServer\bin\Debug\CAServer.exe.config
+D:\User\Desktop\ProgettoBriscola\CAServer\bin\Debug\CAServer.exe
+D:\User\Desktop\ProgettoBriscola\CAServer\bin\Debug\CAServer.pdb
+D:\User\Desktop\ProgettoBriscola\CAServer\bin\Debug\CLCarta.dll
+D:\User\Desktop\ProgettoBriscola\CAServer\bin\Debug\CLCarta.pdb
+D:\User\Desktop\ProgettoBriscola\CAServer\obj\Debug\CAServer.csprojResolveAssemblyReference.cache
+D:\User\Desktop\ProgettoBriscola\CAServer\obj\Debug\CAServer.csproj.CoreCompileInputs.cache
+D:\User\Desktop\ProgettoBriscola\CAServer\obj\Debug\CAServer.csproj.CopyComplete
+D:\User\Desktop\ProgettoBriscola\CAServer\obj\Debug\CAServer.exe
+D:\User\Desktop\ProgettoBriscola\CAServer\obj\Debug\CAServer.pdb
+\\Repo\Studenti$\Informatica\SezBi\4Bi\Eros.Ribaga\Desktop\ProgettoBriscola\CAServer\bin\Debug\CAServer.exe.config
+\\Repo\Studenti$\Informatica\SezBi\4Bi\Eros.Ribaga\Desktop\ProgettoBriscola\CAServer\bin\Debug\CAServer.exe
+\\Repo\Studenti$\Informatica\SezBi\4Bi\Eros.Ribaga\Desktop\ProgettoBriscola\CAServer\bin\Debug\CAServer.pdb
+\\Repo\Studenti$\Informatica\SezBi\4Bi\Eros.Ribaga\Desktop\ProgettoBriscola\CAServer\bin\Debug\CLCarta.dll
+\\Repo\Studenti$\Informatica\SezBi\4Bi\Eros.Ribaga\Desktop\ProgettoBriscola\CAServer\bin\Debug\CLCarta.pdb
+\\Repo\Studenti$\Informatica\SezBi\4Bi\Eros.Ribaga\Desktop\ProgettoBriscola\CAServer\obj\Debug\CAServer.csprojResolveAssemblyReference.cache
+\\Repo\Studenti$\Informatica\SezBi\4Bi\Eros.Ribaga\Desktop\ProgettoBriscola\CAServer\obj\Debug\CAServer.csproj.CoreCompileInputs.cache
+\\Repo\Studenti$\Informatica\SezBi\4Bi\Eros.Ribaga\Desktop\ProgettoBriscola\CAServer\obj\Debug\CAServer.exe
+\\Repo\Studenti$\Informatica\SezBi\4Bi\Eros.Ribaga\Desktop\ProgettoBriscola\CAServer\obj\Debug\CAServer.pdb
+C:\Users\amministratore\Desktop\ProgettoBriscola\CAServer\bin\Debug\CAServer.exe.config
+C:\Users\amministratore\Desktop\ProgettoBriscola\CAServer\bin\Debug\CAServer.exe
+C:\Users\amministratore\Desktop\ProgettoBriscola\CAServer\bin\Debug\CAServer.pdb
+C:\Users\amministratore\Desktop\ProgettoBriscola\CAServer\bin\Debug\CLCarta.dll
+C:\Users\amministratore\Desktop\ProgettoBriscola\CAServer\bin\Debug\CLCarta.pdb
+C:\Users\amministratore\Desktop\ProgettoBriscola\CAServer\obj\Debug\CAServer.csprojResolveAssemblyReference.cache
+C:\Users\amministratore\Desktop\ProgettoBriscola\CAServer\obj\Debug\CAServer.exe
+C:\Users\amministratore\Desktop\ProgettoBriscola\CAServer\obj\Debug\CAServer.pdb
+D:\User\Desktop\Nuova cartella (2)\ProgettoBriscola\CAServer\bin\Debug\CAServer.exe.config
+D:\User\Desktop\Nuova cartella (2)\ProgettoBriscola\CAServer\bin\Debug\CAServer.exe
+D:\User\Desktop\Nuova cartella (2)\ProgettoBriscola\CAServer\bin\Debug\CAServer.pdb
+D:\User\Desktop\Nuova cartella (2)\ProgettoBriscola\CAServer\bin\Debug\CLCarta.dll
+D:\User\Desktop\Nuova cartella (2)\ProgettoBriscola\CAServer\bin\Debug\CLCarta.pdb
+D:\User\Desktop\Nuova cartella (2)\ProgettoBriscola\CAServer\obj\Debug\CAServer.csprojResolveAssemblyReference.cache
+D:\User\Desktop\Nuova cartella (2)\ProgettoBriscola\CAServer\obj\Debug\CAServer.csproj.CoreCompileInputs.cache
+D:\User\Desktop\Nuova cartella (2)\ProgettoBriscola\CAServer\obj\Debug\CAServer.csproj.CopyComplete
+D:\User\Desktop\Nuova cartella (2)\ProgettoBriscola\CAServer\obj\Debug\CAServer.exe
+D:\User\Desktop\Nuova cartella (2)\ProgettoBriscola\CAServer\obj\Debug\CAServer.pdb

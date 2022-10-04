@@ -1,0 +1,72 @@
+D:\User\Desktop\ProgettoBriscola\WFBriscola\obj\Debug\WFBriscola.csprojResolveAssemblyReference.cache
+D:\User\Desktop\ProgettoBriscola\WFBriscola\obj\Debug\WFBriscola.Properties.Resources.resources
+D:\User\Desktop\ProgettoBriscola\WFBriscola\obj\Debug\WFBriscola.csproj.GenerateResource.cache
+D:\User\Desktop\ProgettoBriscola\WFBriscola\obj\Debug\WFBriscola.csproj.CoreCompileInputs.cache
+D:\User\Desktop\ProgettoBriscola\WFBriscola\bin\Debug\WFBriscola.exe.config
+D:\User\Desktop\ProgettoBriscola\WFBriscola\bin\Debug\WFBriscola.exe
+D:\User\Desktop\ProgettoBriscola\WFBriscola\bin\Debug\WFBriscola.pdb
+D:\User\Desktop\ProgettoBriscola\WFBriscola\bin\Debug\CLCarta.dll
+D:\User\Desktop\ProgettoBriscola\WFBriscola\bin\Debug\CLCarta.pdb
+D:\User\Desktop\ProgettoBriscola\WFBriscola\obj\Debug\WFBriscola.csproj.CopyComplete
+D:\User\Desktop\ProgettoBriscola\WFBriscola\obj\Debug\WFBriscola.exe
+D:\User\Desktop\ProgettoBriscola\WFBriscola\obj\Debug\WFBriscola.pdb
+D:\User\Desktop\ProgettoBriscola\WFBriscola\bin\Debug\CAServer.exe
+D:\User\Desktop\ProgettoBriscola\WFBriscola\bin\Debug\CAServer.pdb
+D:\User\Desktop\ProgettoBriscola\WFBriscola\bin\Debug\CAServer.exe.config
+D:\User\Desktop\ProgettoBriscola\WFBriscola\obj\Debug\WFBriscola.Menu.resources
+D:\User\Desktop\ProgettoBriscola\WFBriscola\obj\Debug\WFBriscola.Tavolo.resources
+\\Repo\Studenti$\Informatica\SezBi\4Bi\Eros.Ribaga\Desktop\ProgettoBriscola\WFBriscola\bin\Debug\WFBriscola.exe.config
+\\Repo\Studenti$\Informatica\SezBi\4Bi\Eros.Ribaga\Desktop\ProgettoBriscola\WFBriscola\bin\Debug\WFBriscola.exe
+\\Repo\Studenti$\Informatica\SezBi\4Bi\Eros.Ribaga\Desktop\ProgettoBriscola\WFBriscola\bin\Debug\WFBriscola.pdb
+\\Repo\Studenti$\Informatica\SezBi\4Bi\Eros.Ribaga\Desktop\ProgettoBriscola\WFBriscola\bin\Debug\CAServer.exe
+\\Repo\Studenti$\Informatica\SezBi\4Bi\Eros.Ribaga\Desktop\ProgettoBriscola\WFBriscola\bin\Debug\CLCarta.dll
+\\Repo\Studenti$\Informatica\SezBi\4Bi\Eros.Ribaga\Desktop\ProgettoBriscola\WFBriscola\bin\Debug\CAServer.pdb
+\\Repo\Studenti$\Informatica\SezBi\4Bi\Eros.Ribaga\Desktop\ProgettoBriscola\WFBriscola\bin\Debug\CAServer.exe.config
+\\Repo\Studenti$\Informatica\SezBi\4Bi\Eros.Ribaga\Desktop\ProgettoBriscola\WFBriscola\bin\Debug\CLCarta.pdb
+\\Repo\Studenti$\Informatica\SezBi\4Bi\Eros.Ribaga\Desktop\ProgettoBriscola\WFBriscola\obj\Debug\WFBriscola.csprojResolveAssemblyReference.cache
+\\Repo\Studenti$\Informatica\SezBi\4Bi\Eros.Ribaga\Desktop\ProgettoBriscola\WFBriscola\obj\Debug\WFBriscola.Menu.resources
+\\Repo\Studenti$\Informatica\SezBi\4Bi\Eros.Ribaga\Desktop\ProgettoBriscola\WFBriscola\obj\Debug\WFBriscola.Properties.Resources.resources
+\\Repo\Studenti$\Informatica\SezBi\4Bi\Eros.Ribaga\Desktop\ProgettoBriscola\WFBriscola\obj\Debug\WFBriscola.Tavolo.resources
+\\Repo\Studenti$\Informatica\SezBi\4Bi\Eros.Ribaga\Desktop\ProgettoBriscola\WFBriscola\obj\Debug\WFBriscola.csproj.GenerateResource.Cache
+\\Repo\Studenti$\Informatica\SezBi\4Bi\Eros.Ribaga\Desktop\ProgettoBriscola\WFBriscola\obj\Debug\WFBriscola.csproj.CoreCompileInputs.cache
+\\Repo\Studenti$\Informatica\SezBi\4Bi\Eros.Ribaga\Desktop\ProgettoBriscola\WFBriscola\obj\Debug\WFBriscola.exe
+\\Repo\Studenti$\Informatica\SezBi\4Bi\Eros.Ribaga\Desktop\ProgettoBriscola\WFBriscola\obj\Debug\WFBriscola.pdb
+D:\User\Desktop\ProgettoBriscola\WFBriscola\obj\Debug\WFBriscola.GiocatoreSingolo.resources
+C:\Users\amministratore\Desktop\ProgettoBriscola\WFBriscola\bin\Debug\WFBriscola.exe.config
+C:\Users\amministratore\Desktop\ProgettoBriscola\WFBriscola\bin\Debug\WFBriscola.exe
+C:\Users\amministratore\Desktop\ProgettoBriscola\WFBriscola\bin\Debug\WFBriscola.pdb
+C:\Users\amministratore\Desktop\ProgettoBriscola\WFBriscola\bin\Debug\CAServer.exe
+C:\Users\amministratore\Desktop\ProgettoBriscola\WFBriscola\bin\Debug\CLCarta.dll
+C:\Users\amministratore\Desktop\ProgettoBriscola\WFBriscola\bin\Debug\CAServer.pdb
+C:\Users\amministratore\Desktop\ProgettoBriscola\WFBriscola\bin\Debug\CAServer.exe.config
+C:\Users\amministratore\Desktop\ProgettoBriscola\WFBriscola\bin\Debug\CLCarta.pdb
+C:\Users\amministratore\Desktop\ProgettoBriscola\WFBriscola\obj\Debug\WFBriscola.csprojResolveAssemblyReference.cache
+C:\Users\amministratore\Desktop\ProgettoBriscola\WFBriscola\obj\Debug\WFBriscola.GiocatoreSingolo.resources
+C:\Users\amministratore\Desktop\ProgettoBriscola\WFBriscola\obj\Debug\WFBriscola.Menu.resources
+C:\Users\amministratore\Desktop\ProgettoBriscola\WFBriscola\obj\Debug\WFBriscola.Properties.Resources.resources
+C:\Users\amministratore\Desktop\ProgettoBriscola\WFBriscola\obj\Debug\WFBriscola.Tavolo.resources
+C:\Users\amministratore\Desktop\ProgettoBriscola\WFBriscola\obj\Debug\WFBriscola.csproj.GenerateResource.Cache
+C:\Users\amministratore\Desktop\ProgettoBriscola\WFBriscola\obj\Debug\WFBriscola.exe
+C:\Users\amministratore\Desktop\ProgettoBriscola\WFBriscola\obj\Debug\WFBriscola.pdb
+\\Repo\Studenti$\Informatica\SezBi\4Bi\Eros.Ribaga\Desktop\ProgettoBriscola\WFBriscola\obj\Debug\WFBriscola.GiocatoreSingolo.resources
+D:\User\Desktop\ProgettoBriscola\WFBriscola\obj\Debug\WFBriscola.FormDinamica.resources
+C:\Users\amministratore\Desktop\ProgettoBriscola\WFBriscola\obj\Debug\WFBriscola.FormDinamica.resources
+D:\User\Desktop\Nuova cartella (2)\ProgettoBriscola\WFBriscola\bin\Debug\WFBriscola.exe.config
+D:\User\Desktop\Nuova cartella (2)\ProgettoBriscola\WFBriscola\bin\Debug\WFBriscola.exe
+D:\User\Desktop\Nuova cartella (2)\ProgettoBriscola\WFBriscola\bin\Debug\WFBriscola.pdb
+D:\User\Desktop\Nuova cartella (2)\ProgettoBriscola\WFBriscola\bin\Debug\CAServer.exe
+D:\User\Desktop\Nuova cartella (2)\ProgettoBriscola\WFBriscola\bin\Debug\CLCarta.dll
+D:\User\Desktop\Nuova cartella (2)\ProgettoBriscola\WFBriscola\bin\Debug\CAServer.pdb
+D:\User\Desktop\Nuova cartella (2)\ProgettoBriscola\WFBriscola\bin\Debug\CAServer.exe.config
+D:\User\Desktop\Nuova cartella (2)\ProgettoBriscola\WFBriscola\bin\Debug\CLCarta.pdb
+D:\User\Desktop\Nuova cartella (2)\ProgettoBriscola\WFBriscola\obj\Debug\WFBriscola.csprojResolveAssemblyReference.cache
+D:\User\Desktop\Nuova cartella (2)\ProgettoBriscola\WFBriscola\obj\Debug\WFBriscola.FormDinamica.resources
+D:\User\Desktop\Nuova cartella (2)\ProgettoBriscola\WFBriscola\obj\Debug\WFBriscola.GiocatoreSingolo.resources
+D:\User\Desktop\Nuova cartella (2)\ProgettoBriscola\WFBriscola\obj\Debug\WFBriscola.Menu.resources
+D:\User\Desktop\Nuova cartella (2)\ProgettoBriscola\WFBriscola\obj\Debug\WFBriscola.Properties.Resources.resources
+D:\User\Desktop\Nuova cartella (2)\ProgettoBriscola\WFBriscola\obj\Debug\WFBriscola.Tavolo.resources
+D:\User\Desktop\Nuova cartella (2)\ProgettoBriscola\WFBriscola\obj\Debug\WFBriscola.csproj.GenerateResource.cache
+D:\User\Desktop\Nuova cartella (2)\ProgettoBriscola\WFBriscola\obj\Debug\WFBriscola.csproj.CoreCompileInputs.cache
+D:\User\Desktop\Nuova cartella (2)\ProgettoBriscola\WFBriscola\obj\Debug\WFBriscola.csproj.CopyComplete
+D:\User\Desktop\Nuova cartella (2)\ProgettoBriscola\WFBriscola\obj\Debug\WFBriscola.exe
+D:\User\Desktop\Nuova cartella (2)\ProgettoBriscola\WFBriscola\obj\Debug\WFBriscola.pdb
